@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+*.exe~
+whoport
+whoport.exe
+
+# Go build/test cache
+*.test
+*.out
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+dist/
